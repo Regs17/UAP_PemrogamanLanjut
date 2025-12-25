@@ -1,0 +1,6 @@
+ID,Nama Barang,Kategori,Stok,Harga,Tanggal Masuk
+BRG-001,komputer,Elektronik,60,1.0E7,2025-12-21
+BRG-002,laptop,Elektronik,100,2.0E7,2025-12-21
+BRG-003,jam tangan ,Elektronik,45,3000000.0,2025-12-25
+BRG-004,baju kaos,Pakaian,100,300000.0,2025-12-25
+BRG-005,susu,Minuman,30,15000.0,2025-12-25
